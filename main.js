@@ -22,13 +22,13 @@ console.log(result0r);
 
 let x = 9
 
-if(x=1 && x<=3) {
+if(x=1 == x<=3) {
     console.log("Зима")
-} else if (x>=4 && x<=6) {
+} else if (x>=4 == x<=6) {
     console.log("Весна")
-} else if (x>=7 && x<=9) {
+} else if (x>=7 == x<=9) {
     console.log("Лето")
-} else if (x>=10 && x<=12) {
+} else if (x>=10 == x<=12) {
     console.log("Осень")
 } else {
 
